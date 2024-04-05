@@ -1,0 +1,11 @@
+_id,conflict_id,details,resolution
+660b1c10c1a2bc07bd4735d6,C123,Potential conflict identified between ACME Corp and XYZ Inc.,Matter reassigned to conflict-free team.
+660b1c10c1a2bc07bd4735d7,C124,Conflict of interest found in case involving Globex Corp and Vandelay Industries.,Case handed over to an external legal advisor.
+660b1c10c1a2bc07bd4735d8,C125,Overlap in representation detected for Soylent Corp and Initech.,Conflict disclosed to both parties and consent obtained.
+660b1c10c1a2bc07bd4735d9,C126,Concurrent client representation issue for Hooli and Pied Piper.,Engagement with one party terminated to resolve conflict.
+660b1c10c1a2bc07bd4735da,C127,Financial interest conflict observed with attorney's stake in Wayne Enterprises.,Attorney recused from the matter.
+660b1c10c1a2bc07bd4735db,C128,Previous client relationship causes conflict for new case with Stark Industries.,Previous case files sealed and access restricted.
+660b1c10c1a2bc07bd4735dc,C129,Internal conflict within firm regarding Umbrella Corporation case.,Internal review conducted and matter assigned to neutral team.
+660b1c10c1a2bc07bd4735dd,C130,Potential conflict with attorney's personal relationship affecting Massive Dynamic case.,Attorney withdrew from the case voluntarily.
+660b1c11c1a2bc07bd4735de,C131,Conflict detected due to attorney's previous employment with opposing counsel in E Corp lawsuit.,Attorney's involvement in the case ceased.
+660b1c11c1a2bc07bd4735df,C132,Direct competition between client's business interests in Tyrell Corp and E Corp identified.,Clients informed and representation for one party discontinued.
